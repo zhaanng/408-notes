@@ -1,0 +1,4 @@
+# 推送脚本本身不纳入版本控制
+推送笔记.bat
+.DS_Store
+Thumbs.db
